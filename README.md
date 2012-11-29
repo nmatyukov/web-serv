@@ -1,4 +1,4 @@
-A little web server for studying purposes. <br />
+Simple web server for studying purposes. <br />
 
 + web_serv.conf: files dir + port <br />
 
